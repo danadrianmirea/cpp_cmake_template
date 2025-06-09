@@ -84,13 +84,4 @@ After building, you can run the executable:
 The main configuration is done in `CMakeLists.txt`. You can modify build options, add dependencies, and configure project settings there.
 
 ## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Contact
-
-[Add your contact information here]
+See LICENSE.txt for licensing info (MIT)
